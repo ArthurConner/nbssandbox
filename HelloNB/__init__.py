@@ -1,4 +1,4 @@
-from .sorry import *
-from .core import *
+#from .sorry import *
+#from .core import *
 
 __all__ = ['saySorry', 'sayHi']
